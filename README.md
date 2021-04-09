@@ -1,6 +1,6 @@
 ## Hi 👋 I am Salih Bora! 
 
---Tanıtım--
+I am a self-taught software developer mostly experienced in C#, Java, and C++. I care about writing clean code.
 
 --Projeler çalışmalar--
 
