@@ -1,5 +1,5 @@
  
-## Hi 👋 I am Salih Bora!                                                       ![Profile views](https://gpvc.arturio.dev/salihboraozturk)  
+## Hi 👋 I am Salih Bora! <a>![Profile views](https://gpvc.arturio.dev/salihboraozturk)</a>
 
 I am a self-taught full stack developer mostly experienced in C#, Java and Angular. I care about writing clean code.
 - 🔭  I have been working on a car rental project for a long time.
