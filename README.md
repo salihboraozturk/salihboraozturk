@@ -1,3 +1,4 @@
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsalihboraozturk.salihboraozturk%2Freadme)
 ## Hi 👋 I am Salih Bora! 
 
 I am a self-taught full stack developer mostly experienced in C#, Java, and angularJS. I care about writing clean code.
