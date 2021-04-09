@@ -1,7 +1,7 @@
  
 ## Hi 👋 I am Salih Bora!                                                       ![Profile views](https://gpvc.arturio.dev/salihboraozturk)  
 
-I am a self-taught full stack developer mostly experienced in C#, Java, and Angular. I care about writing clean code.
+I am a self-taught full stack developer mostly experienced in C#, Java and Angular. I care about writing clean code.
 - 🔭  I have been working on a car rental project for a long time.
 
 <details open>
