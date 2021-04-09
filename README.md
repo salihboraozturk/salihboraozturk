@@ -1,6 +1,6 @@
 ## Hi 👋 I am Salih Bora! 
 
-I am a self-taught software developer mostly experienced in C#, Java, and C++. I care about writing clean code.
+I am a self-taught software developer mostly experienced in C#, Java, and angularJS. I care about writing clean code.
 
 
 --Projeler çalışmalar--
