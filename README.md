@@ -14,8 +14,9 @@ I am a self-taught full stack developer mostly experienced in C#, Java and Angul
 </details>
 
 ### Connect with me:
-[<img align="left" alt="salihboraozturk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="salihboraozturk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="salihboraozturk | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="salihboraozturk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="salihboraozturk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -40,4 +41,6 @@ I am a self-taught full stack developer mostly experienced in C#, Java and Angul
 [twitter]: https://twitter.com/sboraozturk
 [instagram]: https://www.instagram.com/salihboraozturk
 [linkedin]: https://www.linkedin.com/in/salih-bora-%C3%B6zt%C3%BCrk-8b839720a/
+[gmail]:mailto:osalihbora@gmail.com
+
 
