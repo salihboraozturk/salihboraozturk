@@ -20,7 +20,7 @@ I am a self-taught full stack developer mostly experienced in C#, Java and Angul
 [<img align="left" alt="salihboraozturk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+ 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
