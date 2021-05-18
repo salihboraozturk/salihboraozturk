@@ -5,7 +5,7 @@ I am a self-taught full stack developer mostly experienced in C#, Java and Angul
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=salihboraozturk&show_icons=true&theme=yeblu&line_height=35">
+  <img src = "https://github-readme-stats.vercel.app/api?username=salihboraozturk&show_icons=true&theme=yeblu&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=salihboraozturk&hide=css,java,html&theme=yeblu">
 </p>
 
