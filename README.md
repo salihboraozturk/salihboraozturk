@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/salihboraozturk) 
 ## Hi 👋 I am Salih Bora!
 I am a self-taught full stack developer mostly experienced in C#, Java and Angular. I care about writing clean code.
-<details open>
+<details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
