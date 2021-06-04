@@ -1,12 +1,19 @@
 ![Profile views](https://gpvc.arturio.dev/salihboraozturk) 
 ## Hi 👋 I am Salih Bora!
 I am a self-taught full stack developer mostly experienced in C#, Java and Angular. I care about writing clean code.
-<details>
+
+<p align = "center"><strong><i>I am working on this project</i></strong></p>
+<p align = "center"><strong>🔰</strong> </p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=salihboraozturk&repo=hrms&show_owner=true">
+</p>
+
+<details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=salihboraozturk&langs_count=8&hide=TSQL,PLpgSQL&theme=yeblu"><br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=salihboraozturk&show_icons=true&theme=yeblu&line_height=33.5">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=salihboraozturk&langs_count=8&hide=TSQL,PLpgSQL&theme=yeblu&layout=compact&show_icons=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=salihboraozturk&show_icons=true&theme=yeblu&line_height=30&hide=prs,contribs">
  
 </p>
 
