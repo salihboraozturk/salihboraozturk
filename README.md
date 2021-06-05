@@ -6,7 +6,7 @@
 <p align = "center"><strong>💻 I am working on this project 💻</strong></p>
 <p align = "center"><strong>🔰</strong> </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=salihboraozturk&repo=hrms&show_owner=true">
+ <a href="https://github.com/salihboraozturk/hrms"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=salihboraozturk&repo=hrms&show_owner=true&theme=yeblu"></a>
 </p>
 
 <details open>
