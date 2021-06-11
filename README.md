@@ -6,7 +6,9 @@
 <p align = "center"><strong>💻 I am working on this project 💻</strong></p>
 <p align = "center"><strong>🔰</strong> </p>
 <p align = "center">
- <a href="https://github.com/salihboraozturk/hrms"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=salihboraozturk&repo=hrms&show_owner=true&theme=yeblu"></a>
+ <a href="https://github.com/salihboraozturk/hrms"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=salihboraozturk&repo=hrms&show_owner=true&theme=yeblu">
+ <a href="https://github.com/salihboraozturk/hrms-frontend"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=salihboraozturk&repo=hrms-frontend&show_owner=true&theme=yeblu">
+ </a>
 </p>
 
 <details open>
