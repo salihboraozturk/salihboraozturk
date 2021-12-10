@@ -1,15 +1,15 @@
 ![Profile views](https://gpvc.arturio.dev/salihboraozturk) 
 <h1 align = "center">🌎 Welcome to my code universe! 🌎</h1>
 <p align = "center"><i><strong>I am a self-taught full stack developer mostly experienced in C#, Java and Angular. I care about writing clean code.</strong></i></p>
+<br/>
 
-
-<p align = "center"><strong>💻 I am working on this project 💻</strong></p>
+<!-- <p align = "center"><strong>💻 I am working on this project 💻</strong></p>
 <p align = "center"><strong>🔰</strong> </p>
 <p align = "center">
  <a href="https://github.com/salihboraozturk/hrms"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=salihboraozturk&repo=hrms&show_owner=true&theme=yeblu">
  <a href="https://github.com/salihboraozturk/hrms-frontend"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=salihboraozturk&repo=hrms-frontend&show_owner=true&theme=yeblu">
  </a>
-</p>
+</p> -->
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
