@@ -53,7 +53,7 @@
 ---
 [twitter]: https://twitter.com/sboraozturk
 [instagram]: https://www.instagram.com/salihboraozturk
-[linkedin]: https://www.linkedin.com/in/salih-bora-%C3%B6zt%C3%BCrk-8b839720a/
+[linkedin]: https://www.linkedin.com/in/salihboraozturk/
 [gmail]:mailto:osalihbora@gmail.com
 
 
